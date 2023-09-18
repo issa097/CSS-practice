@@ -1,0 +1,41 @@
+.text1 {
+  color: #6f6fff;
+}
+.text1 a {
+  color: #ffae34;
+}
+.text2 a {
+  color: #ffae34;
+}
+.text3 a {
+  background-color: #ffff00;
+  color: #983f65;
+}
+
+.please {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.please a {
+  color: red;
+  font-weight: bold;
+}
+.number {
+  color: blue;
+}
+.number a {
+  color: red;
+  font-weight:500;
+}
+.n111 {
+  font-weight: bold;
+}
+.rgb {
+  list-style: none;
+}
+.red {
+  font-weight: bold;
+}
+.enough {
+  margin-top: 20px;
+}
